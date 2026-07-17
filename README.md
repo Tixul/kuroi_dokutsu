@@ -17,6 +17,12 @@ back out.
 The project is still being built, so expect rough edges. It's here as a work in
 progress, not a polished release.
 
+## About the name
+
+*Cave Noire* — the game that inspired this one — is a Japanese title with a French
+name. So, as a small joke, I flipped it around: a game made in France with a
+Japanese name. *Kuroi Dōkutsu* (黒い洞窟) simply means "black cave."
+
 ## License
 
 MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Tixul.
